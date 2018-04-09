@@ -1,6 +1,6 @@
 ##Protocol for use with NEBNext Ultra DNA Library Prep Kit for Illumina (E7370)
 
-Starting material is RAD library prep, 55.5ul
+Starting material is RAD library prep, 55.6ul
 
 ## 1.1 NEBNext End Prep  
 
