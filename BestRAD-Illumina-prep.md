@@ -1,5 +1,7 @@
 ## BestRAD Illumina library Prep
 
+Shake it first
+
 This method was developed by Mike Miller's Lab at UCD and described in the citation below:
 
 Ali, Omar A., et al. "RAD capture (Rapture): flexible and efficient sequence-based genotyping." Genetics 202.2 (2016): 389-400.
